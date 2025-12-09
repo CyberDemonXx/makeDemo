@@ -2,8 +2,9 @@
 
 int main() {
   // call a function in another file
-  myPrintHelloMake("JORDAN B.");
+  myPrintHelloMake();
 
   return(0);
 }
+
 
